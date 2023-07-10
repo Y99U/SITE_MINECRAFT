@@ -1,0 +1,150 @@
+html {
+    background: #2a2a2a;
+	background: url(img/background.jpg);
+	width: 100%;
+    height: 100%;
+}
+
+body {
+    background: #f3f2ee;
+    color: #666666;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0em 100px 4em;
+}
+
+
+.header1 {text-align: center;
+    width: 500%;
+    height: 50px;
+	position: relative; 
+		left: -1800px; 
+}
+
+
+.btn1 {
+    background-image: url("../img/button1.png");
+    padding-left : 252px;
+	padding-top : 22px;
+	padding-bottom : 0px;
+	background-repeat : no-repeat;
+	position: relative; 
+		top: -85px; 
+		left: -140px; 
+}
+
+
+
+.btn2 {
+    background-image: url("../img/button2.png");
+    padding-left : 392px;
+	padding-top : 22px;
+	padding-bottom : 0px;
+	background-repeat : no-repeat;
+	position: relative; 
+		top: -85px; 
+		left: -100px;	
+}
+
+
+
+
+.btn4 {
+    background-image: url("../img/button4.png");
+    padding-left : 48px;
+	padding-top : 18px;
+	padding-bottom : 0px;
+	background-repeat : no-repeat;
+	position: relative; 
+		top: -85px; 
+		left: 0px; 
+}
+
+
+.btn5 {
+    background-image: url("../img/button5.png");
+    padding-left : 48px;
+	padding-top : 18px;
+	padding-bottom : 0px;
+	background-repeat : no-repeat;
+	position: relative; 
+		top: -85px; 
+		left: 40px; 
+}
+
+
+.center {
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 0.5;
+}
+
+
+
+p {
+    font-size: 1.3rem;
+}
+
+
+
+
+
+h2 {
+    margin-top: 1em;
+}
+
+a {
+    color: #0083e8;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+img {
+    background: transparent;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
+
+
+
+
+ul {
+    list-style: none;
+	position: relative;
+    left: -40px;
+}
+
+ul li:before {
+    content:  "- ";
+    position: relative;
+    left: 0px;
+}
+
+
+.box {
+}
