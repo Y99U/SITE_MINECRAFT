@@ -3,7 +3,7 @@
 
 	header .header1{
 		position: absolute; 
-		left: 122px;
+		left: 142px;
 		margin-left:-1024px;
 }
 	
@@ -11,7 +11,7 @@
 	header .bg{
 		position: absolute; 
 		left: -100px;
-		margin-left:-1024px;
+		margin-left:-124px;
 }
 
 
@@ -22,7 +22,7 @@
   /* */
 	header .header{
 		position: absolute; 
-		left: 122px;
+		left: 142px;
 		margin-left:-1024px;
 }
 	
@@ -47,7 +47,7 @@
   /* */
 	header .header{
 		position: absolute; 
-		left: 122px;
+		left: 142px;
 		margin-left:-1024px;
 }
 	
@@ -61,7 +61,7 @@
   /* */
 	header .header{
 		position: absolute; 
-		left: 122px;
+		left: 142px;
 		margin-left:-1024px;
 }
 	
