@@ -1,14 +1,14 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1200px) {
 
-	header .header1 li{
+	header .header1{
 		position: absolute; 
 		left: 812px;
 		margin-left:-1024px;
 }
 	
 
-	header .logo li a{
+	header .logo{
 		font-size: 16px;
 	}
 
@@ -17,14 +17,14 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
   /* */
-	header .header1 li{
+	header .header{
 		position: absolute; 
 		left: 812px;
 		margin-left:-1024px;
 }
 	
 
-	header .logo li a{
+	header .logo{
 		font-size: 16px;
 	}
 
@@ -34,14 +34,14 @@
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
   /* */
-	header .header1 li{
+	header .header{
 		position: absolute; 
 		left: 812px;
 		margin-left:-1024px;
 }
 	
 
-	header .logo li a{
+	header .logo{
 		font-size: 16px;
 	}
 
@@ -51,14 +51,14 @@
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
   /* */
-	header .header1 li{
+	header .header{
 		position: absolute; 
 		left: 812px;
 		margin-left:-1024px;
 }
 	
 
-	header .logo li a{
+	header .logo{
 		font-size: 16px;
 	}
 
@@ -68,14 +68,14 @@
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
   /* */
-	header .header1 li{
+	header .header{
 		position: absolute; 
 		left: 812px;
 		margin-left:-1024px;
 }
 	
 
-	header .logo li a{
+	header .logo{
 		font-size: 16px;
 	}
 
