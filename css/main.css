@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    color: #444444;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-family: "Minecraft rus", Helvetica, Arial, sans-serif;
     font-size: 22px;
     line-height: 1.7;
     margin: 0 auto;
@@ -91,7 +91,7 @@ word-break:break-all;
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: #222;
+    color: #000000;
     font-weight: 600;
     line-height: 0.5;
 }
@@ -111,7 +111,7 @@ h2 {
 }
 
 a {
-    color: #0083e8;
+    color: #000000;
 }
 
 b, strong {
@@ -129,17 +129,6 @@ img {
     max-width: 95%;
 }
 
-@keyframes colorize {
-    0% {
-        -webkit-filter: grayscale(100%);
-        filter: grayscale(100%);
-    }
-    100% {
-        -webkit-filter: grayscale(0%);
-        filter: grayscale(0%);
-    }
-}
-
 
 
 
@@ -155,6 +144,23 @@ ul li:before {
     left: 0px;
 }
 
-
-.box {
+.info-image{
+	position: relative; 
+		top: -20em; 
+		left: 2em; 
 }
+
+
+.info-image2{
+	position: relative; 
+		top: -1em; 
+		left: -410px; 
+}
+
+
+.info-image3{
+	position: relative; 
+		top: -1em; 
+		left: -182px; 
+}
+
