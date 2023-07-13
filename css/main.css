@@ -3,7 +3,6 @@ html {
 }
 
 body {
-    color: #ffffff;
     font-family: "Minecraft rus", Helvetica, Arial, sans-serif;
     font-size: 22px;
     line-height: 1.7;
@@ -91,7 +90,6 @@ word-break:break-all;
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
     font-weight: 600;
     line-height: 0.5;
 }
@@ -111,7 +109,6 @@ h2 {
 }
 
 a {
-    color: #000000;
 }
 
 b, strong {
