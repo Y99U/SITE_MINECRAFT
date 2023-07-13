@@ -1,11 +1,14 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1200px) {
 
-	header .mnu_top li{
-		margin-right: 20px;
+	header .header1 li{
+		position: absolute; 
+		left: 612px;
+		margin-left:-1024px;
+}
 	}
 
-	header .mnu_top li a{
+	header .logo li a{
 		font-size: 16px;
 	}
 
