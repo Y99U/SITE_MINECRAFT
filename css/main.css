@@ -10,6 +10,7 @@ body {
     max-width: 1000px;
     padding: 0em 100px auto;
 	overflow-x: hidden;
+	color: rgb(0, 0, 0);
 }
 
 
@@ -52,11 +53,11 @@ word-break:break-all;
 .btn2 {
     background-image: url("../img/button2.png");
     padding-left : 392px;
-	padding-top : 22px;
+	padding-top : 30px;
 	padding-bottom : 0px;
 	background-repeat : no-repeat;
 	position: relative; 
-		top: -90px; 
+		top: -82px; 
 		left: -100px;	
 }
 
@@ -161,3 +162,8 @@ ul li:before {
 		left: -182px; 
 }
 
+
+
+.text-white {
+  color: rgb(55, 87, 51);
+}
