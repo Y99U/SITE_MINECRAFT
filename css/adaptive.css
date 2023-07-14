@@ -9,7 +9,7 @@
 
 
 body {
-  margin: 0px 1024px 0px 0px;
+  margin: 0px -1024px 0px 0px;
 
 }
 
@@ -24,7 +24,10 @@ body {
 		margin-left:-1024px;
 }
 	
+body {
+  margin: 0px -1024px 0px 0px;
 
+}
 
 }
 
@@ -37,6 +40,10 @@ body {
 		margin-left:-1024px;
 }
 	
+body {
+  margin: 0px -1024px 0px 0px;
+
+}
 
 }
 
@@ -50,7 +57,10 @@ body {
 }
 	
 
+body {
+  margin: 0px -1024px 0px 0px;
 
+}
 
 }
 
@@ -63,6 +73,9 @@ body {
 		margin-left:-1024px;
 }
 	
+body {
+  margin: 0px -1024px 0px 0px;
 
+}
 
 }
