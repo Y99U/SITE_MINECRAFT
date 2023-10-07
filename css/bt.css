@@ -60,53 +60,20 @@ body {
 	overflow-x: hidden;
 }
 
-.logo1{
-  height: 8em;
-  display: flex;
-  align-items: center;
-  justify-content: center }
-
 
 .hidden {
 	display: none;
 }
 
-.header1{
-	height: -10em;
-    position: relative;
-	margin: 0;
-    position: absolute;
-    top: 7%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) 
+.btn1 {
+    background-image: url("../img/bt/button1.png");
+	padding-top : 22px;
+	padding-bottom : 0px;
+	background-repeat : no-repeat;
+	position: relative; 
+		top: -90px; 
+		left: -140px; 
 }
 
-.long-text {
-	position: relative;
-	left: 22em;
-	width: 47em;
-	text-align: justify;
-}
 
-.up {
-  vertical-align: -3em;
-}
 
-.mi{
-	vertical-align: -2em;
-	text-align: center;
-}
-
-ul {
-    padding: 0; /* Убираем поля */
-    margin-left: 15px; /* Отступ слева */
-}
-
-.color-red1 {
-    color: #E32636;
-}
-
-.color-orange1 {
-	color: #FF7518;
-}
